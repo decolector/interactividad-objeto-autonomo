@@ -17,9 +17,9 @@ En el curso se busca que los participantes conozcan y apropien herramientas té
 
 ## Metodología
 
-La clase se desarrolla mediante una metodología teórico – práctica. El trabajo del estudiante gira alrededor de la conceptualización y desarrollo del proyecto de la clase. En diferentes momentos se presentarán referentes teóricos, artísticos y tecnológicos que se constituyen en apoyo conceptual al proyecto.
+  La clase se desarrolla mediante una metodología teórico – práctica. El trabajo del estudiante gira alrededor de la conceptualización y desarrollo del proyecto de la clase. En diferentes momentos se presentarán referentes teóricos, artísticos y tecnológicos que se constituyen en apoyo conceptual al proyecto.
 
-Se espera que el estudiante presente avances tanto en la parte discursiva como práctica del proyecto.
+  Se espera que el estudiante presente avances tanto en la parte discursiva como práctica del proyecto.
 
 
 ## Contenido
@@ -39,3 +39,12 @@ Se espera que el estudiante presente avances tanto en la parte discursiva como p
   * Semana 14: Desarrollo de proyecto
   * Semana 15: Entregas Finales
   * Semana 16: Entregtas Finales
+
+
+## Bibliografía
+
+ * Agamben, Giorgio, Qué es un dispositivo ? , Sociológica, año 26, número 73, pp. 249-264, mayo- agosto de 2011. [link](http://www.revistasociologica.com.mx/pdf/7310.pdf)
+
+ * STRATEGIES OF INTERACTIVE ART, Ryszard W. Kluszczynski, Journal of Asthetics and Culture, Vol2, 2010. [link](http://www.aestheticsandculture.net/index.php/jac/article/view/5525)
+
+ * Terranova, Tiziana; Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos; Curating Inmateriality; Autonomedia 2006. [traduccion al español](https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo- inmaterial-en-los-sistemas-abiertos/)
