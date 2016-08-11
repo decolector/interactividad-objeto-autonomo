@@ -24,18 +24,18 @@ Se espera que el estudiante presente avances tanto en la parte discursiva como p
 
 ## Contenido
 
-  *Semana 1: Introducción al curso ( metodología de trabajo, cronograma, referentes teóricos y artísticos generales)
-  *Semana 2: Que es un dispositivo ¿ ( Teoría )
-  *Semana 3: Interactividad y Participacion ( Teoría )
-  *Semana 4: Introducción/Nivelación a la programación. Presentación de Anteproyecto Semana 5: Introducción a arduino: Entradas/Salidas Digitales
-  *Semana 6: Introducción a arduino: Entradas/Salidas Análogas
-  *Semana 7: Desarrollo de Proyecto
-  *Semana 8: Desarrollo de Proyecto
-  *Semana 9 Entrega
-  *Semana 10: Interactividad y Trabajo Inmaterial ( Teoría )
-  *Semana 11: Sensores ( Distancia, presencia, presión, ambientales, etc )
-  *Senmana 12: Actuadores ( Motores, selenoides, luz, etc )
-  *Semana 13: Redes, Internet de las Cosas
-  *Semana 14: Desarrollo de proyecto
-  *Semana 15: Entregas Finales
-  *Semana 16: Entregtas Finales
+  * Semana 1: Introducción al curso ( metodología de trabajo, cronograma, referentes teóricos y artísticos generales)
+  * Semana 2: Que es un dispositivo ¿ ( Teoría )
+  * Semana 3: Interactividad y Participacion ( Teoría )
+  * Semana 4: Introducción/Nivelación a la programación. Presentación de Anteproyecto Semana 5: Introducción a arduino: Entradas/Salidas Digitales
+  * Semana 6: Introducción a arduino: Entradas/Salidas Análogas
+  * Semana 7: Desarrollo de Proyecto
+  * Semana 8: Desarrollo de Proyecto
+  * Semana 9 Entrega
+  * Semana 10: Interactividad y Trabajo Inmaterial ( Teoría )
+  * Semana 11: Sensores ( Distancia, presencia, presión, ambientales, etc )
+  * Senmana 12: Actuadores ( Motores, selenoides, luz, etc )
+  * Semana 13: Redes, Internet de las Cosas
+  * Semana 14: Desarrollo de proyecto
+  * Semana 15: Entregas Finales
+  * Semana 16: Entregtas Finales
