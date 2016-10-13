@@ -50,7 +50,7 @@ void setup() {
  while (Serial.available()) { // If data is available to read,
   val = Serial.read(); // read it and store it in val
   }
-  float freq = map(sensorValue, 0, 1023, 20, 10000);
+  float freq = map(val, 0, 1023, 20, 10000);
   tone(outPin, freq);
   //Serial.println(sensorValue/4);
   //delay(10);
