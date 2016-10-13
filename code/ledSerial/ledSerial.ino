@@ -41,7 +41,7 @@ void setup() {
  while (Serial.available()) { // If data is available to read,
   val = Serial.read(); // read it and store it in val
   }
-  analogWrite(val);
+  analogWrite(outPin, val);
   delay(100); // Wait 100 milliseconds for next reading
  }
 
