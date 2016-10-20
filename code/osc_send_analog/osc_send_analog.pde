@@ -14,8 +14,8 @@ float data = 0;
 void setup(){
   size(512, 256);
   oscP5 = new OscP5(this, 12000);
-  myRemoteLocation = new NetAddress("127.0.0.1", 12000);
-  port = new Serial(this, Serial.list()[1], 9600);
+  myRemoteLocation = new NetAddress("192.168.1.138", 12000);
+  port = new Serial(this, Serial.list()[3], 9600);
 
   textSize(24);
 }

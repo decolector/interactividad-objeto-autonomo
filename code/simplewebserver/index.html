@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>HTML5 boilerplate – all you really need…</title>
+	<link rel="stylesheet" href="css/style.css">
+	<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+
+<body id="home">
+
+	<h1>Interruptor de Luz!</h1>
+	<div class="">
+		<label class="switch">
+  <input type="checkbox" id="inter" value="off">
+  <div class="slider"></div>
+</label>
+	</div>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.js"></script>
+<script type="text/javascript" >
+	$(document).ready(function(){
+		console.log("Ready!!");
+		$('#inter').click(function(e){
+			console.log($(this).val());
+			var state = $(this).val();
+			if(state == "off"){
+				state = "on";
+			}else if( state == "on"){
+				state = "off"
+			}
+			$(this).val(state);
+ 			console.log("value changed: "  + $(this).val());
+			$.ajax('/',{
+				method: 'POST',
+				data: {state: $('#inter').val()},
+				dataType: 'json',
+			})
+			.done(function(response){
+				console.log("response:" + response);
+			});
+		})
+	});
+
+</script>
+</body>
+</html>

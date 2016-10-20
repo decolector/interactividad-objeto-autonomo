@@ -8,7 +8,7 @@ import oscP5.*;
 import netP5.*;
 import processing.serial.*;
 
-//Serial port;
+Serial port;
 
 float data = 0.0; 
 
@@ -19,8 +19,8 @@ void setup() {
   size(256,512);
   /* start oscP5, listening for incoming messages at port 12000 */
   oscP5 = new OscP5(this,12000);
-  //printArray(Serial.list());
-  //port = new Serial(this, Serial.list()[1], 9600);
+  printArray(Serial.list());
+  port = new Serial(this, Serial.list()[3], 9600);
   textSize(24);
 }
 
@@ -39,7 +39,7 @@ void oscEvent(OscMessage theOscMessage) {
 
   if(theOscMessage.checkAddrPattern("/data")==true) {
     data = theOscMessage.get(0).floatValue();
-    //port.write(data);
+    port.write(int(data));
   }     
 
 }
